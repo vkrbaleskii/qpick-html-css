@@ -1,0 +1,47 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.my-form {
+    padding: 20px;
+}
+
+.my-form .form-group{
+    padding-bottom: 10px;
+
+}
+
+.col-lg-12 img {
+    padding-left: 500px;
+}
+
+.my-form input{
+    width:100%;
+    border-radius: 20px;
+}
+
+.button {
+    background-color: #333;
+    color:#fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius:3px;
+}
+.nav {
+    padding: 20px;
+    float: right;
+}
+
+.nav li{
+    display:inline;
+    padding: 10px;
+}
+
+.nav a {
+    text-decoration: none;
+}
+
+
+
+
+
